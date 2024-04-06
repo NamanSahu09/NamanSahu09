@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naman-swastik-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-swastik-sahu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naman-swastik-sahu-6304621b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-swastik-sahu" height="30" width="40" /></a>
 <a href="https://fb.com/namanswastik.sahu.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="namanswastik.sahu.3" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_nss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_nss" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/namanswastik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="namanswastik" height="30" width="40" /></a>
