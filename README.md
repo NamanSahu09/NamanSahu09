@@ -1,8 +1,7 @@
 ![logo](https://github.com/NamanSahu09/NamanSahu09/blob/main/LinkedinBanner..png)
 <h1 align="center">Hi 👋, I'm Naman Swastik Sahu</h1>
 <h3 align="center">A passionate Software Developer & Security Engineer from India</h3>
-
-<img align="right" alt="coding" width="400px" src="https://i.gifer.com/7zon.gif">
+<iframe src="https://gifer.com/embed/7zon" width=400 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namansahu09&label=Profile%20views&color=0e75b6&style=flat" alt="namansahu09" /> </p>
 
