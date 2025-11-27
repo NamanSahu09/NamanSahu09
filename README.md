@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **namanswastik11@gmail.com**
 
-- 📄 Know about my experiences [https://namanportfolio09.000webhostapp.com/](https://namanportfolio09.000webhostapp.com/)
+- 📄 Know about my experiences [https://namanportfolio09.000webhostapp.com/]([https://namanportfolio09.000webhostapp.com/](https://main.dp0wrurku8xw9.amplifyapp.com/))
 
 - ⚡ Fun fact **I am handsome ;)**
 
