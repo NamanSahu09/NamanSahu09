@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **namanswastik11@gmail.com**
 
-- 📄 Know about my experiences [(https://main.dp0wrurku8xw9.amplifyapp.com/)]([(https://main.dp0wrurku8xw9.amplifyapp.com/)])
+- 📄 Know about my experiences: [My Portfolio](https://main.dp0wrurku8xw9.amplifyapp.com/)
+
 
 - ⚡ Fun fact **I am handsome ;)**
 
